@@ -11,8 +11,11 @@ Encodes categorical variables like GENDER and car age categories.
 
 
 Models: Trains and compares three algorithms:
+
 📈 Logistic Regression
+
 🌳 Random Forest Classifier
+
 🧮 Categorical Naive Bayes
 
 

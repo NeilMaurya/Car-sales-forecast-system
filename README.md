@@ -80,8 +80,6 @@ Model Warning: Logistic Regression may show a convergence warning; consider scal
 Performance: Logistic Regression outperformed others with ~68.73% accuracy.
 Scalability: The model is saved as model.pkl for reuse—load it with joblib.load('model.pkl').
 
-### 📜 License
-This project is licensed under the MIT License. Feel free to use, modify, and share it! 🎉
 ### 🤝 Contributing
 We’d love your input! To contribute:
 
